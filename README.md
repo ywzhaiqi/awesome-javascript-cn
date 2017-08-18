@@ -18,7 +18,94 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 目录
 
-[TOC]
+<!-- TOC -->
+
+- [JavaScript 资源大全中文版](#javascript-资源大全中文版)
+    - [我们要做什么？](#我们要做什么)
+    - [目录](#目录)
+  - [包管理器](#包管理器)
+  - [加载器](#加载器)
+  - [打包工具](#打包工具)
+  - [测试框架](#测试框架)
+    - [框架](#框架)
+    - [断言](#断言)
+    - [覆盖率](#覆盖率)
+    - [运行器](#运行器)
+  - [QA 工具](#qa-工具)
+  - [MVC 框架和库](#mvc-框架和库)
+  - [基于 Node 的 CMS 框架](#基于-node-的-cms-框架)
+  - [模板引擎](#模板引擎)
+  - [Flux](#flux)
+  - [数据可视化](#数据可视化)
+    - [时间轴](#时间轴)
+  - [编辑器](#编辑器)
+  - [文档](#文档)
+  - [工具库](#工具库)
+    - [文件](#文件)
+    - [函数式编程](#函数式编程)
+    - [响应式编程](#响应式编程)
+    - [数据结构](#数据结构)
+    - [日期](#日期)
+    - [字符串](#字符串)
+    - [数字](#数字)
+    - [存储](#存储)
+    - [颜色](#颜色)
+    - [国际化和本地化（I18n And L10n）](#国际化和本地化i18n-and-l10n)
+    - [类](#类)
+    - [控制流](#控制流)
+    - [路由](#路由)
+    - [安全性](#安全性)
+    - [日志](#日志)
+    - [正则表达式](#正则表达式)
+    - [媒体](#媒体)
+    - [语音命令](#语音命令)
+    - [API](#api)
+    - [视觉检测](#视觉检测)
+    - [浏览器检测](#浏览器检测)
+    - [性能分析](#性能分析)
+  - [UI](#ui)
+    - [代码高亮](#代码高亮)
+    - [加载状态](#加载状态)
+    - [验证](#验证)
+    - [键盘封装器](#键盘封装器)
+    - [浏览和引导](#浏览和引导)
+    - [通知](#通知)
+    - [幻灯片](#幻灯片)
+    - [滑块控件](#滑块控件)
+    - [表单组件](#表单组件)
+    - [输入](#输入)
+    - [日历](#日历)
+    - [选择](#选择)
+    - [文件上传](#文件上传)
+    - [其它](#其它)
+    - [提示](#提示)
+    - [模态框和弹出框](#模态框和弹出框)
+    - [滚动](#滚动)
+    - [菜单](#菜单)
+    - [表格/栅格](#表格栅格)
+    - [框架](#框架-1)
+  - [其它库](#其它库)
+    - [手势](#手势)
+    - [触摸](#触摸)
+    - [地图](#地图)
+    - [视频/音频](#视频音频)
+    - [动画](#动画)
+    - [图片处理](#图片处理)
+    - [ECMAScript 6](#ecmascript-6)
+    - [软件开发工具包(SDK)](#软件开发工具包sdk)
+    - [大杂烩](#大杂烩)
+  - [工具](#工具)
+    - [本地编辑器](#本地编辑器)
+    - [在线编辑器](#在线编辑器)
+  - [精品阅读](#精品阅读)
+  - [资源](#资源)
+  - [社区](#社区)
+    - [有影响力的书](#有影响力的书)
+    - [微博、微信公众号](#微博微信公众号)
+    - [知名网站](#知名网站)
+    - [博客](#博客)
+
+<!-- /TOC -->
 
 * * *
 
@@ -222,7 +309,8 @@ Web 数据可视化工具
 * TimelineJS： 一个用 JavaScript 编写的可叙事时间轴库。[官网](https://github.com/NUKnightLab/TimelineJS)
 * timesheet.js：用于构建简单的 HTML5 &amp; CSS3 时间表的 JavaScript 库。[官网](https://github.com/semu/timesheet.js)
 
-## 编辑器（[Editors](README_EN.md#editors)）
+## 编辑器
+>[Editors](README_EN.md#editors)
 
 * ace：Ace（Ajax.org Cloud9 Editor）。[官网](https://github.com/ajaxorg/ace)
 * CodeMirror：浏览器端的代码编辑器。[官网](https://github.com/codemirror/CodeMirror)
@@ -247,7 +335,8 @@ Web 数据可视化工具
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
 
-## 文档（[Documentation](README_EN.md#Documentation)）
+## 文档
+>[Documentation](README_EN.md#Documentation)
 
 * [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 * [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
@@ -645,7 +734,7 @@ Web 数据可视化工具
 
 * Semantic UI：拥有大量主题和元素的 UI 套件。[官网](http://semantic-ui.com/)
 
-## 移动
+## 其它库
 
 ### 手势
 
@@ -719,6 +808,26 @@ Web 数据可视化工具
 * BitSet.js：实现位向量的 JavaScript 库。[官网](https://github.com/infusion/BitSet.js)
 * [Edge.js](http://hao.jobbole.com/edge-js/)：运行在一个进程中运行.NET和Node.js代码。[官网](http://tjanczuk.github.io/edge/)、[GitHub](https://github.com/tjanczuk/edge)
 
+## 工具
+
+### 本地编辑器
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Atom](https://atom.io/)
+* [Sublime Text](https://sublimetext.com/)
+* [WebStorm](http://www.jetbrains.com/webstorm/): The smartest JavaScript IDE
+* [Nuclide](https://nuclide.io/): is built as a single package on top of Atom to provide hackability and the support of an active community. It provides a first-class development environment for React Native, Hack and Flow projects.
+
+### 在线编辑器
+
+* [WebpackBin](https://www.webpackbin.com/)：完整的支持 es6、typescript、npm
+* [我的 codepan](http://y.guten.me/codepan/#/)：比较简陋，不支持 import，支持离线
+  * 基于 [codepan: Like codepen and jsbin but works offline](https://github.com/egoist/codepan) 小幅修改
+* [CodePen](https://codepen.io)
+* [JS Bin](http://jsbin.com/?html,css,js,output)：Collaborative JavaScript Debugging
+* [RunJS](http://runjs.cn)：（国内）在线编辑、展示、分享、交流你的 JavaScript 代码。
+* [Plunker](http://plnkr.co)：Plunker is an online community for creating, collaborating on and sharing your web development ideas.
+
 ## 精品阅读
 
 * braziljs/js-the-right-way：[官网](https://github.com/braziljs/js-the-right-way/)
@@ -745,7 +854,7 @@ Web 数据可视化工具
 * [开源中国 - 找到您想要的开源项目，分享和交流](https://www.oschina.net)
 
 ### 有影响力的书
->具有广泛影响且值得阅读的前端经典书籍。
+*具有广泛影响且值得阅读的前端经典书籍。*
 
 * 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
 * 《你不知道的Javascript》：英文版 "You Don't Know JS"
@@ -755,7 +864,7 @@ Web 数据可视化工具
 待补充
 
 ### 知名网站
->值得关注的前端技术站点。
+*值得关注的前端技术站点。*
 
 <h4>中文站点</h4>
 
