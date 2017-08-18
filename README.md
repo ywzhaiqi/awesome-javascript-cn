@@ -18,90 +18,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 目录
 
-<!-- TOC -->
-
-- [JavaScript 资源大全中文版](#javascript-资源大全中文版)
-    - [我们要做什么？](#我们要做什么)
-    - [目录](#目录)
-  - [包管理器](#包管理器)
-  - [加载器](#加载器)
-  - [打包工具](#打包工具)
-  - [测试框架](#测试框架)
-    - [框架](#框架)
-    - [断言](#断言)
-    - [覆盖率](#覆盖率)
-    - [运行器](#运行器)
-  - [QA 工具](#qa-工具)
-  - [MVC 框架和库](#mvc-框架和库)
-  - [基于 Node 的 CMS 框架](#基于-node-的-cms-框架)
-  - [模板引擎](#模板引擎)
-  - [Flux](#flux)
-  - [数据可视化](#数据可视化)
-    - [时间轴](#时间轴)
-  - [编辑器](#编辑器)
-  - [工具库](#工具库)
-    - [文件](#文件)
-    - [函数式编程](#函数式编程)
-    - [响应式编程](#响应式编程)
-    - [数据结构](#数据结构)
-    - [日期](#日期)
-    - [字符串](#字符串)
-    - [数字](#数字)
-    - [存储](#存储)
-    - [颜色](#颜色)
-    - [国际化和本地化（I18n And L10n）](#国际化和本地化i18n-and-l10n)
-    - [类](#类)
-    - [控制流](#控制流)
-    - [路由](#路由)
-    - [安全性](#安全性)
-    - [日志](#日志)
-    - [正则表达式](#正则表达式)
-    - [媒体](#媒体)
-    - [语音命令](#语音命令)
-    - [API](#api)
-    - [视觉检测](#视觉检测)
-    - [浏览器检测](#浏览器检测)
-    - [性能分析](#性能分析)
-  - [UI](#ui)
-    - [代码高亮](#代码高亮)
-    - [加载状态](#加载状态)
-    - [验证](#验证)
-    - [键盘封装器](#键盘封装器)
-    - [浏览和引导](#浏览和引导)
-    - [通知](#通知)
-    - [幻灯片](#幻灯片)
-    - [滑块控件](#滑块控件)
-    - [表单组件](#表单组件)
-    - [输入](#输入)
-    - [日历](#日历)
-    - [选择](#选择)
-    - [文件上传](#文件上传)
-    - [其它](#其它)
-    - [提示](#提示)
-    - [模态框和弹出框](#模态框和弹出框)
-    - [滚动](#滚动)
-    - [菜单](#菜单)
-    - [表格/栅格](#表格栅格)
-    - [框架](#框架-1)
-  - [移动](#移动)
-    - [手势](#手势)
-    - [触摸](#触摸)
-    - [地图](#地图)
-    - [视频/音频](#视频音频)
-    - [动画](#动画)
-    - [图片处理](#图片处理)
-    - [ECMAScript 6](#ecmascript-6)
-    - [软件开发工具包(SDK)](#软件开发工具包sdk)
-    - [大杂烩](#大杂烩)
-  - [精品阅读](#精品阅读)
-  - [资源](#资源)
-  - [社区](#社区)
-    - [有影响力的书](#有影响力的书)
-    - [微博、微信公众号](#微博微信公众号)
-    - [知名网站](#知名网站)
-    - [博客](#博客)
-
-<!-- /TOC -->
+[TOC]
 
 * * *
 
@@ -305,7 +222,7 @@ Web 数据可视化工具
 * TimelineJS： 一个用 JavaScript 编写的可叙事时间轴库。[官网](https://github.com/NUKnightLab/TimelineJS)
 * timesheet.js：用于构建简单的 HTML5 &amp; CSS3 时间表的 JavaScript 库。[官网](https://github.com/semu/timesheet.js)
 
-## 编辑器
+## 编辑器（[Editors](README_EN.md#editors)）
 
 * ace：Ace（Ajax.org Cloud9 Editor）。[官网](https://github.com/ajaxorg/ace)
 * CodeMirror：浏览器端的代码编辑器。[官网](https://github.com/codemirror/CodeMirror)
@@ -323,6 +240,29 @@ Web 数据可视化工具
 * Squire：HTML5 富文本编辑器。[官网](https://github.com/neilj/Squire)
 * TinyMCE：JavaScript 富文本编辑器。[官网](https://github.com/tinymce/tinymce)
 * trix：由 Basecamp 制作，适用于每天写作的富文本编辑器。[官网](https://github.com/basecamp/trix)
+* [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
+* [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+* [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
+* [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
+* [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
+* [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
+
+## 文档（[Documentation](README_EN.md#Documentation)）
+
+* [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
+* [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
+* [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+* [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
+* [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+* [dox](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+* [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+* [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+* [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+* [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+* [Using JSDoc](http://usejsdoc.org/)
+* [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
+* [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+* [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 
 ## 工具库
 
@@ -805,7 +745,7 @@ Web 数据可视化工具
 * [开源中国 - 找到您想要的开源项目，分享和交流](https://www.oschina.net)
 
 ### 有影响力的书
-*具有广泛影响且值得阅读的前端经典书籍。*
+>具有广泛影响且值得阅读的前端经典书籍。
 
 * 《[Limu：JavaScript 的那些书](http://web.jobbole.com/8087/)》
 * 《你不知道的Javascript》：英文版 "You Don't Know JS"
@@ -815,7 +755,7 @@ Web 数据可视化工具
 待补充
 
 ### 知名网站
-*值得关注的前端技术站点。*
+>值得关注的前端技术站点。
 
 <h4>中文站点</h4>
 
