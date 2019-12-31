@@ -4,7 +4,7 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
-**更改**：原版不更新了？
+**我的更改**：原版不更新了？
 
 * * *
 
@@ -122,8 +122,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
 * jam：一个专注于浏览器端和兼容 RequireJS 的包管理器。[官网](https://github.com/caolan/jam)
 * jspm：流畅的浏览器包管理器。[官网](https://github.com/jspm/jspm-cli)
-* ~Ender：没有库文件的程序库。[官网](https://github.com/ender-js/Ender)
-* ~volo：以项目模板、添加依赖项与自动化生成的方式创建前端项目。[官网](https://github.com/volojs/volo) ~
+* ~Ender：没有库文件的程序库。[官网](https://github.com/ender-js/Ender)~
+* ~volo：以项目模板、添加依赖项与自动化生成的方式创建前端项目。[官网](https://github.com/volojs/volo)~
 * ~Duo：一个整合 Component、Browserify 和 Go [官网](https://github.com/duojs/duo)的最佳思想，使开发者能快速方便地组织和编写前端代码的下一代包管理器。~
 
 ## 加载器
