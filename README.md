@@ -4,6 +4,8 @@
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
+**更改**：原版不更新了？
+
 * * *
 
 ### 我们要做什么？
@@ -114,14 +116,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 管理着 JavaScript 库，并提供读取和打包它们的工具。
 
 * npm：npm 是 JavaScript 的包管理器。[官网](https://www.npmjs.com/)
+  * yarn - Fast, reliable, and secure dependency management.
 * Bower：一个 web 应用的包管理器。[官网](https://github.com/bower/bower)
 * component：能构建更好 web 应用的客户端包管理器。[官网](https://github.com/componentjs/component)
 * spm：全新的静态包管理器。[官网](https://github.com/spmjs/spm)
 * jam：一个专注于浏览器端和兼容 RequireJS 的包管理器。[官网](https://github.com/caolan/jam)
 * jspm：流畅的浏览器包管理器。[官网](https://github.com/jspm/jspm-cli)
-* Ender：没有库文件的程序库。[官网](https://github.com/ender-js/Ender)
-* volo：以项目模板、添加依赖项与自动化生成的方式创建前端项目。[官网](https://github.com/volojs/volo) 
-* Duo：一个整合 Component、Browserify 和 Go [官网](https://github.com/duojs/duo)的最佳思想，使开发者能快速方便地组织和编写前端代码的下一代包管理器。
+* ~Ender：没有库文件的程序库。[官网](https://github.com/ender-js/Ender)
+* ~volo：以项目模板、添加依赖项与自动化生成的方式创建前端项目。[官网](https://github.com/volojs/volo) ~
+* ~Duo：一个整合 Component、Browserify 和 Go [官网](https://github.com/duojs/duo)的最佳思想，使开发者能快速方便地组织和编写前端代码的下一代包管理器。~
 
 ## 加载器
 
@@ -144,6 +147,7 @@ JavaScript 的模块或加载系统。
 * browserify ：Browserify 让你能在浏览器端使用 require('modules') ，打包所有依赖。[官网](https://github.com/substack/node-browserify)
 * webpack：为浏览器打包 CommonJs/AMD 模块。[官网](https://github.com/webpack/webpack)
 * gulp：用自动化构建工具增强你的工作流程！[官网](http://gulpjs.com/)
+* rollup: JavaScript 模块打包器! [官网](https://rollupjs.org/) [中文](http://www.rollupjs.com/)
 
 ## 测试框架
 
